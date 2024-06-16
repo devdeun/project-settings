@@ -1,0 +1,62 @@
+[
+  {
+    "name": "⚙ Setting",
+    "color": "e3dede",
+    "description": "개발 환경 세팅"
+  },
+  {
+    "name": "✨ Feature",
+    "color": "fffade",
+    "description": "기능 개발"
+  },
+  {
+    "name": "📃 Docs",
+    "color": "ffffff",
+    "description": "문서 작성 및 수정"
+  },
+  {
+    "name": "🙋‍♂️ Question",
+    "color": "91c3ce",
+    "description": "질문"
+  },
+  {
+    "name": "🎨 Html&css",
+    "color": "5A66A2",
+    "description": "마크업 & 스타일링"
+  },
+  {
+    "name": "🐞 BugFix",
+    "color": "ff774a",
+    "description": "버그"
+  },
+  {
+    "name": "🌏 Deploy",
+    "color": "C2E0C6",
+    "description": "배포 관련"
+  },
+  {
+    "name": "🔨 Refactor",
+    "color": "ffb850",
+    "description": "코드 리팩토링"
+  },
+  {
+    "name": "💻 CrossBrowsing",
+    "color": "C5DEF5",
+    "description": "브라우저 호환성"
+  },
+  {
+    "name": "🥰 Accessibility",
+    "color": "facfcf",
+    "description": "웹 접근성 관련"
+  },
+  {
+    "name": "💻 Backend",
+    "color": "F3DD9F",
+    "description": "백엔드 관련"
+  },
+  {
+    "name": "📬 API",
+    "color": "D4C5F9",
+    "description": "서버 API 통신"
+  }
+]
