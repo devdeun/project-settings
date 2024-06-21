@@ -58,5 +58,10 @@
     "name": "📬 API",
     "color": "D4C5F9",
     "description": "서버 API 통신"
+  },
+  {
+    "name": "😢 Help",
+    "color": "2371E6",
+    "description": "도와주세요..."
   }
 ]
