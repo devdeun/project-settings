@@ -13,6 +13,7 @@
 # feat: 새로운 기능 추가
 # fix: 버그 수정
 # docs: 문서 수정
+# settings: 프로젝트 세팅 관련
 # style: 코드 formatting, 세미콜론 누락 등 코드 자체의 변경이 없는 경우
 # refactor: 코드 리팩토링
 # test: 테스트 코드, 리팩토링 테스트 코드 추가
