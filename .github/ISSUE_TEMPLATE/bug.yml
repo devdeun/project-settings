@@ -1,10 +1,7 @@
 name: 🐞 Bug
 description: 버그가 발생했나요?
-title: "[Bug] "
+title: "[bug] "
 labels: ["🐞 BugFix"]
-projects: []
-assignees:
-  -
 body:
   - type: textarea
     id: bug-description
@@ -21,10 +18,10 @@ body:
     validations:
       required: true
   - type: textarea
-    id: bug-log
+    id: bug-solution
     attributes:
-      label: 📄 로그
-      description: 로그가 있다면 작성해 주세요.
+      label: 💡 해결 방법
+      description: 해결 방법을 알고 있다면 작성해 주세요.
     validations:
       required: false
   - type: textarea
