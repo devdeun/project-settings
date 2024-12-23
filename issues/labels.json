@@ -1,6 +1,6 @@
 [
   {
-    "name": "⚙ Setting",
+    "name": "⚙ Settings",
     "color": "e3dede",
     "description": "개발 환경 세팅"
   },
@@ -15,17 +15,12 @@
     "description": "문서 작성 및 수정"
   },
   {
-    "name": "🙋‍♂️ Question",
-    "color": "91c3ce",
-    "description": "질문"
-  },
-  {
-    "name": "🎨 Html&css",
+    "name": "🎨 Design",
     "color": "5A66A2",
-    "description": "마크업 & 스타일링"
+    "description": "스타일링 관련"
   },
   {
-    "name": "🐞 BugFix",
+    "name": "🐛 Bug",
     "color": "ff774a",
     "description": "버그"
   },
@@ -40,28 +35,13 @@
     "description": "코드 리팩토링"
   },
   {
-    "name": "💻 CrossBrowsing",
-    "color": "C5DEF5",
-    "description": "브라우저 호환성"
-  },
-  {
-    "name": "🥰 Accessibility",
-    "color": "facfcf",
-    "description": "웹 접근성 관련"
-  },
-  {
-    "name": "💻 Backend",
-    "color": "F3DD9F",
-    "description": "백엔드 관련"
-  },
-  {
     "name": "📬 API",
     "color": "D4C5F9",
     "description": "서버 API 통신"
   },
   {
-    "name": "😢 Help",
-    "color": "2371E6",
-    "description": "도와주세요..."
+    "name": "🧪 Test",
+    "color": "F3DD9F",
+    "description": "코드 테스트 관련"
   }
 ]
